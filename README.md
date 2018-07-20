@@ -1,4 +1,4 @@
-<span align="center">
+<p align="center">
 
 # SongPig Musician Search
 
@@ -6,6 +6,6 @@
 
 ![SongPig Screenshot 2](./screen2.jpg)
 
-</span>
+</p>
 ### Overview
 A simple music search tool for discovering information about artists.
